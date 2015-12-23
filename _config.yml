@@ -1,0 +1,28 @@
+name: For Fear Of Words
+favicon: null
+layout_spectrum: 0.11639483156614006
+typography_spectrum: 0.12467807671055198
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.023333127610385418
+  lightness: 0.35643071634694934
+  saturation: 0.05287971440702677
+  rhythmicContrast: 0.2240355780813843
+purpose: []
